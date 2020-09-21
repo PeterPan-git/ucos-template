@@ -1,0 +1,248 @@
+Dependencies for Project 'project', Target 'project': (DO NOT MODIFY !)
+F (.\CMSIS\system_stm32f10x.c)(0x5661478C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
+I (CMSIS\stm32f10x.h)(0x5661478C)
+I (CMSIS\core_cm3.h)(0x5661478C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdint.h)(0x5F670636)
+I (CMSIS\system_stm32f10x.h)(0x5661478C)
+I (.\Users\stm32f10x_conf.h)(0x5661478A)
+I (.\StdPeriphDriver\inc\stm32f10x_flash.h)(0x5661478C)
+I (.\CMSIS\stm32f10x.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\misc.h)(0x5661478C)
+F (.\CMSIS\core_cm3.c)(0x5661478C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\core_cm3.o --omf_browse .\obj\core_cm3.crf --depend .\obj\core_cm3.d)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdint.h)(0x5F670636)
+F (.\StdPeriphDriver\src\misc.c)(0x5661478C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\misc.o --omf_browse .\obj\misc.crf --depend .\obj\misc.d)
+I (.\StdPeriphDriver\inc\misc.h)(0x5661478C)
+I (.\CMSIS\stm32f10x.h)(0x5661478C)
+I (.\CMSIS\core_cm3.h)(0x5661478C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdint.h)(0x5F670636)
+I (.\CMSIS\system_stm32f10x.h)(0x5661478C)
+I (.\Users\stm32f10x_conf.h)(0x5661478A)
+I (.\StdPeriphDriver\inc\stm32f10x_flash.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x5661478C)
+F (.\StdPeriphDriver\src\stm32f10x_gpio.c)(0x5661478C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_gpio.o --omf_browse .\obj\stm32f10x_gpio.crf --depend .\obj\stm32f10x_gpio.d)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x5661478C)
+I (.\CMSIS\stm32f10x.h)(0x5661478C)
+I (.\CMSIS\core_cm3.h)(0x5661478C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdint.h)(0x5F670636)
+I (.\CMSIS\system_stm32f10x.h)(0x5661478C)
+I (.\Users\stm32f10x_conf.h)(0x5661478A)
+I (.\StdPeriphDriver\inc\stm32f10x_flash.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\misc.h)(0x5661478C)
+F (.\StdPeriphDriver\src\stm32f10x_rcc.c)(0x5661478C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_rcc.o --omf_browse .\obj\stm32f10x_rcc.crf --depend .\obj\stm32f10x_rcc.d)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x5661478C)
+I (.\CMSIS\stm32f10x.h)(0x5661478C)
+I (.\CMSIS\core_cm3.h)(0x5661478C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdint.h)(0x5F670636)
+I (.\CMSIS\system_stm32f10x.h)(0x5661478C)
+I (.\Users\stm32f10x_conf.h)(0x5661478A)
+I (.\StdPeriphDriver\inc\stm32f10x_flash.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\misc.h)(0x5661478C)
+F (.\StdPeriphDriver\src\stm32f10x_flash.c)(0x5661478C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_flash.o --omf_browse .\obj\stm32f10x_flash.crf --depend .\obj\stm32f10x_flash.d)
+I (.\StdPeriphDriver\inc\stm32f10x_flash.h)(0x5661478C)
+I (.\CMSIS\stm32f10x.h)(0x5661478C)
+I (.\CMSIS\core_cm3.h)(0x5661478C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdint.h)(0x5F670636)
+I (.\CMSIS\system_stm32f10x.h)(0x5661478C)
+I (.\Users\stm32f10x_conf.h)(0x5661478A)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\misc.h)(0x5661478C)
+F (.\StdPeriphDriver\src\stm32f10x_usart.c)(0x5661478C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_usart.o --omf_browse .\obj\stm32f10x_usart.crf --depend .\obj\stm32f10x_usart.d)
+I (.\StdPeriphDriver\inc\stm32f10x_usart.h)(0x5661478C)
+I (.\CMSIS\stm32f10x.h)(0x5661478C)
+I (.\CMSIS\core_cm3.h)(0x5661478C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdint.h)(0x5F670636)
+I (.\CMSIS\system_stm32f10x.h)(0x5661478C)
+I (.\Users\stm32f10x_conf.h)(0x5661478A)
+I (.\StdPeriphDriver\inc\stm32f10x_flash.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\misc.h)(0x5661478C)
+F (.\StartUp\startup_stm32f10x_hd.s)(0x5661478C)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"--pd "__UVISION_VERSION SETA 527" --pd "STM32F10X_HD SETA 1"--list .\list\startup_stm32f10x_hd.lst --xref -o .\obj\startup_stm32f10x_hd.o --depend .\obj\startup_stm32f10x_hd.d)
+F (.\UCOSII\CODE\os_tmr.c)(0x5661478C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_tmr.o --omf_browse .\obj\os_tmr.crf --depend .\obj\os_tmr.d)
+I (UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+F (.\UCOSII\CODE\os_core.c)(0x5661478A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_core.o --omf_browse .\obj\os_core.crf --depend .\obj\os_core.d)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+F (.\UCOSII\CODE\os_flag.c)(0x5661478A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_flag.o --omf_browse .\obj\os_flag.crf --depend .\obj\os_flag.d)
+I (UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+F (.\UCOSII\CODE\os_mbox.c)(0x5661478A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_mbox.o --omf_browse .\obj\os_mbox.crf --depend .\obj\os_mbox.d)
+I (UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+F (.\UCOSII\CODE\os_mem.c)(0x5661478A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_mem.o --omf_browse .\obj\os_mem.crf --depend .\obj\os_mem.d)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+F (.\UCOSII\CODE\os_mutex.c)(0x5661478A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_mutex.o --omf_browse .\obj\os_mutex.crf --depend .\obj\os_mutex.d)
+I (UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+F (.\UCOSII\CODE\os_q.c)(0x5661478A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_q.o --omf_browse .\obj\os_q.crf --depend .\obj\os_q.d)
+I (UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+F (.\UCOSII\CODE\os_sem.c)(0x5661478C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_sem.o --omf_browse .\obj\os_sem.crf --depend .\obj\os_sem.d)
+I (UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+F (.\UCOSII\CODE\os_task.c)(0x5661478C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_task.o --omf_browse .\obj\os_task.crf --depend .\obj\os_task.d)
+I (UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+F (.\UCOSII\CODE\os_time.c)(0x5661478C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_time.o --omf_browse .\obj\os_time.crf --depend .\obj\os_time.d)
+I (UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+F (.\UCOSII\CPU\os_cpu_c.c)(0x5661478A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_cpu_c.o --omf_browse .\obj\os_cpu_c.crf --depend .\obj\os_cpu_c.d)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+F (.\UCOSII\CPU\os_dbg.c)(0x5661478A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_dbg.o --omf_browse .\obj\os_dbg.crf --depend .\obj\os_dbg.d)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+F (.\UCOSII\CPU\os_cpu.h)(0x5661478A)()
+F (.\UCOSII\CPU\os_cpu_a.asm)(0x5661478A)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"--pd "__UVISION_VERSION SETA 527" --pd "STM32F10X_HD SETA 1"--list .\list\os_cpu_a.lst --xref -o .\obj\os_cpu_a.o --depend .\obj\os_cpu_a.d)
+F (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)()
+F (.\UCOSII\CONFIG\os_includes.c)(0x5661478A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\os_includes.o --omf_browse .\obj\os_includes.crf --depend .\obj\os_includes.d)
+I (UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+I (.\CMSIS\stm32f10x.h)(0x5661478C)
+I (.\CMSIS\core_cm3.h)(0x5661478C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdint.h)(0x5F670636)
+I (.\CMSIS\system_stm32f10x.h)(0x5661478C)
+I (.\Users\stm32f10x_conf.h)(0x5661478A)
+I (.\StdPeriphDriver\inc\stm32f10x_flash.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\misc.h)(0x5661478C)
+F (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)()
+F (.\Users\main.c)(0x5661478A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (.\CMSIS\stm32f10x.h)(0x5661478C)
+I (.\CMSIS\core_cm3.h)(0x5661478C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdint.h)(0x5F670636)
+I (.\CMSIS\system_stm32f10x.h)(0x5661478C)
+I (.\Users\stm32f10x_conf.h)(0x5661478A)
+I (.\StdPeriphDriver\inc\stm32f10x_flash.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\misc.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_includes.h)(0x5661478A)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\string.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\ctype.h)(0x599ECD2E)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (.\UCOSII\CODE\ucos_ii.h)(0x5661478C)
+I (.\UCOSII\CONFIG\os_cfg.h)(0x5661478A)
+I (.\UCOSII\CPU\os_cpu.h)(0x5661478A)
+F (.\Users\stm32f10x_it.c)(0x5661478A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\CMSIS -I .\StdPeriphDriver\inc -I .\Users -I .\UCOSII\CODE -I .\UCOSII\CONFIG -I .\UCOSII\CPU-I.\RTE\_project-I"D:\SoftWare Install\keil\Keil\STM32F1xx_DFP\2.2.0\Device\Include"-I"D:\SoftWare Install\keil\ARM\CMSIS\Include"-D__UVISION_VERSION="527" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o .\obj\stm32f10x_it.o --omf_browse .\obj\stm32f10x_it.crf --depend .\obj\stm32f10x_it.d)
+I (Users\stm32f10x_it.h)(0x5661478A)
+I (.\CMSIS\stm32f10x.h)(0x5661478C)
+I (.\CMSIS\core_cm3.h)(0x5661478C)
+I (D:\SoftWare Install\keil\ARM\ARMCC\include\stdint.h)(0x5F670636)
+I (.\CMSIS\system_stm32f10x.h)(0x5661478C)
+I (.\Users\stm32f10x_conf.h)(0x5661478A)
+I (.\StdPeriphDriver\inc\stm32f10x_flash.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_gpio.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\stm32f10x_rcc.h)(0x5661478C)
+I (.\StdPeriphDriver\inc\misc.h)(0x5661478C)
